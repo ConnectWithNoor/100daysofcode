@@ -1,2 +1,2 @@
-# 100daysofcode
-The Repository is a log of my daily coding activities.
+# 100daysofcode Challenge.
+### The challenge will start from advance UI development to building serverless cloud apps and APIs. 

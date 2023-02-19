@@ -7,7 +7,7 @@
 
 ✅  Completed the Navbar, Header and the About sections
 
-⏰ Time: 5 hours
+⏰ Time: 6 hours
 
 ## Day 02
 
@@ -15,7 +15,7 @@
 
 ✅ Completed the Menu, Chef, Video and Laurels Sections. 
 
-⏰ Time: 3 hours
+⏰ Time: 6 hours
 
 ## Day 03
 ✅ Completed the Gallery, FindUs, Footer Sections.
@@ -24,7 +24,7 @@
 
 ⏰ Time: 6 hours
 
-⏰ Total Time taken to complete the project: 14 Hours
+⏰ Total Time taken to complete the project: 18 Hours
 
 🔗 [Github Reporsitory](https://github.com/ConnectWithNoor/grille-finedine-restaurant)
 

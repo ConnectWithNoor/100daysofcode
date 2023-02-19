@@ -1,4 +1,13 @@
 
+
+# 100DaysOfCode
+
+This repository will contain my logs for the challenge of #100daysofCode. The initial idea is to build User interfaces, web applications as well as Dapps using the latest technologies.
+
+At the end of the challenge, I would be familier with the advanced UI development as well as creating services using the serverless cloud apps and APIs.
+
+
+
 ## Day 01
 
 ⭐ Started out the challenge.

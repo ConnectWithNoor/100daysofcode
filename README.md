@@ -26,6 +26,6 @@
 
 ⏰ Total Time taken to complete the project: 14 Hours
 
-🔗 [Github Reporsitory](https://grille-finedine-restaurant.vercel.app/)
+🔗 [Github Reporsitory](https://github.com/ConnectWithNoor/grille-finedine-restaurant)
 
 ⚡[Live](https://grille-finedine-restaurant.vercel.app/)

@@ -1,2 +1,31 @@
-# 100daysofcode Challenge.
-### The challenge will consist of advance UI development to building serverless cloud apps and APIs.
+
+## Day 01
+
+⭐ Started out the challenge.
+
+👉🏻 Started the first project. `Grille Finedine Restaurant` 
+
+✅  Completed the Navbar, Header and the About sections
+
+⏰ Time: 5 hours
+
+## Day 02
+
+👉🏻 Continue from where I left of.
+
+✅ Completed the Menu, Chef, Video and Laurels Sections. 
+
+⏰ Time: 3 hours
+
+## Day 03
+✅ Completed the Gallery, FindUs, Footer Sections.
+
+✅ Completed the first project. 
+
+⏰ Time: 6 hours
+
+⏰ Total Time taken to complete the project: 14 Hours
+
+🔗 [Github Reporsitory](https://grille-finedine-restaurant.vercel.app/)
+
+⚡[Live](https://grille-finedine-restaurant.vercel.app/)

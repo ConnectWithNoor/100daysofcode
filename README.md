@@ -38,3 +38,19 @@ At the end of the challenge, I would be familier with the advanced UI developmen
 🔗 [Github Reporsitory](https://github.com/ConnectWithNoor/grille-finedine-restaurant)
 
 ⚡[Live](https://grille-finedine-restaurant.vercel.app/)
+
+## Day 04
+
+👉🏻 Next Project idea is to create a metaverse landing page with lots of animation and gradients, for that. I spent today learning framer-motion library.
+
+✅ Built a small demo animation project for myself to practice framer-motion. 
+
+⏰ Time: 3 hours
+
+## Day 05
+
+👉🏻 Started making the metaverse landing page. I'm following a well-known YT tutorial for it. The tutoal is in JS but I'm using TS also, I'm changing the code where it is making sense to me.
+
+✅ Completed the navbar, hero section, about section and one more.
+
+⏰ Time: 4 hours

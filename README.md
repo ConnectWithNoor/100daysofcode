@@ -37,7 +37,7 @@ At the end of the challenge, I would be familier with the advanced UI developmen
 
 🔗 [Github Reporsitory](https://github.com/ConnectWithNoor/grille-finedine-restaurant)
 
-⚡[Live](https://grille-finedine-restaurant.vercel.app/)
+⚡[Click here to see live demo](https://grille-finedine-restaurant.vercel.app/)
 
 ## Day 04
 
@@ -52,5 +52,17 @@ At the end of the challenge, I would be familier with the advanced UI developmen
 👉🏻 Started making the metaverse landing page. I'm following a well-known YT tutorial for it. The tutoal is in JS but I'm using TS also, I'm changing the code where it is making sense to me.
 
 ✅ Completed the navbar, hero section, about section and one more.
+
+⏰ Time: 4 hours
+
+## Day 06
+
+✅ Completed the 2nd Project of the challenge
+
+⏰ Total Time taken to complete the project: 10 Hours
+
+🔗 [Github Reporsitory](https://github.com/ConnectWithNoor/metaverses-landing)
+
+⚡[Click here to see live demo](https://metaverses-landing.vercel.app/)
 
 ⏰ Time: 4 hours

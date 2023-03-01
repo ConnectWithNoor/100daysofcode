@@ -35,9 +35,9 @@ At the end of the challenge, I would be familier with the advanced UI developmen
   </thead>
   <tbody>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>3</td>
-      <td>8</td>
+      <td>10</td>
     </tr>
   </tbody>
 </table>

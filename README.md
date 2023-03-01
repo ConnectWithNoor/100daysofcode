@@ -14,7 +14,9 @@ At the end of the challenge, I would be familier with the advanced UI developmen
     <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="50px" height="50px"/>
     <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="50px" height="50px"/>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="50px" height="50px"/>
+    <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="50px" height="50px"/>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" width="50px" height="50px"/>
+    <img src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" width="50px" height="50px"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" width="50px" height="50px"/>
 </p>
 
@@ -102,3 +104,62 @@ At the end of the challenge, I would be familier with the advanced UI developmen
 
 - Time: 6 hours
 
+### 🔭 Day 07
+
+- Figured out that I don't have a portfolio website to showcase my projects and skillset to the potential employees. 
+
+- Took a time to find a reasonable resource for portfolio building.
+
+- Found a [Tutorial Video](https://www.youtube.com/watch?v=3HNyXCPDQ7Q) to follow but it seems the tutorial is made on react 17 and it now out-dated and I need to make it using the Next 13.2 version and sanity@latest as well.  
+
+- Initialized the project with required dependencies and styles-guide.
+
+- Created the appropriate folder structure.
+
+- Time: 5 hours
+
+### 🔭 Day 08
+
+- Started building the portfolio. 
+
+- Finished the navbar and the header section with responsiveness and animations using framer-motion.
+
+- Time: 4 hours
+
+### 🔭 Day 9 
+
+- Refactored the navbar responsive component to support next 13 server rendering feature.
+
+- Created About and Projects schema in Sanity CMS. The schema is refactored as per our usability and differs from the tutorial.
+
+- Created the sections for About and Project with responsiveness and animations using framer-motion. 
+
+- Projects section requires user interactivity so I've made this perticular section the client side rendered.
+
+Time: 6 hours.
+
+### 🔭 Day 10
+
+- Tested the project I've build so far and fixed some very minor design related issues.
+
+- Created Skills, Testimonials and Contact schema in Sanity CMS. The schema is refactored as per our usability and differs from the tutorial.
+
+- Created the sections for Skills, Testimonials and Contact. The responsiveness and animations are to be needed. 
+
+- Testimonials and Contact section requires user interactivity so I've made them client side rendered.
+
+Time: 8 hours.
+
+### 🔭 Day 11
+
+- Finally the hard work paid off today. The portfolio project is completed and deployed on Vercel. Links are given below.
+
+- Made the remaining sections of the portfolio responsive and applied the animation using framer-motion.
+
+- Updated my Github's #100DaysOfCode repository.
+
+- [Github Reporsitory](https://github.com/ConnectWithNoor/techsume)
+
+- [Click here to see live demo](https://techsume.vercel.app/)
+
+- Time: 5 hours

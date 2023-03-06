@@ -152,14 +152,18 @@ Time: 8 hours.
 
 ### 🔭 Day 11
 
-- Finally the hard work paid off today. The portfolio project is completed and deployed on Vercel. Links are given below.
-
 - Made the remaining sections of the portfolio responsive and applied the animation using framer-motion.
 
-- Updated my Github's #100DaysOfCode repository.
+Time: 6 hours.
 
-- [Github Reporsitory](https://github.com/ConnectWithNoor/techsume)
+### 🔭 Day 12
 
-- [Click here to see live demo](https://techsume.vercel.app/)
+- Created routes for sanity data fecting and integrated with the server components.
+
+- Finally the project is completed.
+
+- [Github Reporsitory](https://github.com/ConnectWithNoor/connectwithnoor-portfolio/)
+
+- [Click here to see live demo](https://connectwithnoor.vercel.app/)
 
 - Time: 5 hours
